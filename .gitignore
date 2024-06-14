@@ -1,0 +1,5 @@
+*.bak
+*.pyc
+*.swp
+*~
+/src/oira.statistics.tools.egg-info
